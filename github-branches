@@ -1,0 +1,11 @@
+### git branch -vv
+  bug-fix-typo 252344a [origin/bug-fix-typo] Fix typo in README
+* main         23607fe [origin/main] Add Task 8 output
+
+### git branch -a
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/main
+  remotes/upstream/main
